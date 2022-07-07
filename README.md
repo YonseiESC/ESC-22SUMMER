@@ -8,7 +8,7 @@
 |week 0<br>(7/7)|Introduction| |
 |week 1<br>(7/14, 7/16)|Likelihood & Prior(FCB Chapter 1, 2, 3)<br/>발제자: | Summer Data Camp with Python(1)|
 |week 2<br>(7/21)|One-parameter and Normal models(1) (FCB Chapter 3)<br/>발제자: | |
-|week 3<br>(7/28, 7/30)|One-parameter and Normal models(2) (    )<br/> 발제자: | Summer Data Camp with Python(1)|
+|week 3<br>(7/28, 7/30)|One-parameter and Normal models(2) (    )<br/> 발제자: | Summer Data Camp with Python(2)|
 |week 4<br>(8/4)|Multivariate Normal Model(FCB Chapter 7)<br/>발제자: | |
 |week 5<br>(8/11)|Hierarchical Model(FCB Chapter 8)<br/>발제자: | Alumni 연사특강|
 |week 6<br>(8/18)| | |
