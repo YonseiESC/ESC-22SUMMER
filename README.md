@@ -15,7 +15,6 @@
 
 ## 자율스터디
 - 해석학(박재현)
-- 수리통계학 (이도형) - 예정
 
 ## 정규세션 교재
 - Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
