@@ -1,4 +1,5 @@
 # ESC-22SUMMER
+![2022 summer 표지](https://user-images.githubusercontent.com/56993675/177688367-6d744556-746e-402e-bc12-7599dc887af5.jpg)
 
 ## Plan
 
