@@ -16,6 +16,6 @@
 - 해석학(박재현)
 
 ## 정규세션 교재
-Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
-John K. Kruschke (2014). *Doing Bayesian Data Analysis*. Academic Press.
-Andrew Gelman (2004). *Bayesian Data Analysis*. Chapman & Hall/CRC.
+- Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
+- John K. Kruschke (2014). *Doing Bayesian Data Analysis*. Academic Press.
+- Andrew Gelman (2004). *Bayesian Data Analysis*. Chapman & Hall/CRC.
