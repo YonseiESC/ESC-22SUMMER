@@ -20,3 +20,6 @@
 - Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
 - John K. Kruschke (2014). *Doing Bayesian Data Analysis*. Academic Press.
 - Andrew Gelman (2004). *Bayesian Data Analysis*. Chapman & Hall/CRC.
+
+## 세션 영상 유튜브 링크
+- 220707 SUMMER week0 : OT - https://youtu.be/XoDde9hAPEs
