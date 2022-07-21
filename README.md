@@ -24,3 +24,4 @@
 ## 세션 영상 유튜브 링크
 - 220707 SUMMER week0 : OT - https://youtu.be/XoDde9hAPEs
 - 220714 SUMMER week1 : Likelihood & Prior - https://youtu.be/rrPaC0VPLoc
+- 220721 SUMMER week2 : One-parameter and Normal models(1) - https://youtu.be/Vngs96s30g4
