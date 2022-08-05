@@ -26,3 +26,4 @@
 - 220714 SUMMER week1 : Likelihood & Prior - https://youtu.be/rrPaC0VPLoc
 - 220721 SUMMER week2 : One-parameter and Normal models(1) - https://youtu.be/Vngs96s30g4
 - 220728 SUMMER week3 : One-parameter and Normal models(2) - https://youtu.be/WS8cTeWw3XU
+- 220804 SUMMER week4 : Multivariate Normal Model - https://youtu.be/MJ39uLZleYg
