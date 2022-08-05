@@ -15,6 +15,7 @@
 
 ## 자율스터디
 - 해석학(박재현)
+- 선형대수(오태환)
 
 ## 정규세션 교재
 - Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
